@@ -1,3 +1,11 @@
 Git kann tolle Sachen.
+<<<<<<< HEAD
 Diese Zeile wurde zu etwas anderem geändert.
+=======
+<<<<<<< HEAD
+--- Diesedsfsafd Zeile ändern ---
+=======
+Diese Zeile wurde geändert.
+>>>>>>> 9cd9a1932b68455f6941b69b046369331d953d64
+>>>>>>> origin/master
 Aber man muss es üben.
