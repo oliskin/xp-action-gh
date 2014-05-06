@@ -1,0 +1,3 @@
+Git kann tolle Sachen.
+--- Diese Zeile ändern ---
+Aber man muss es üben.
